@@ -5,7 +5,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using JuliaFoodDeliveryMarket.Models;
-using JuliaFoodDeliveryMarket.Models.ViewModels;
 
 namespace JuliaFoodDeliveryMarket.Controllers
 {
