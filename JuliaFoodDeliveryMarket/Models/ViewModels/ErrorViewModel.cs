@@ -1,6 +1,6 @@
 using System;
 
-namespace JuliaFoodDeliveryMarket.Models
+namespace JuliaFoodDeliveryMarket.Models.ViewModels
 {
     public class ErrorViewModel
     {
