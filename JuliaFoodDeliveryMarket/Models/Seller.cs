@@ -9,6 +9,7 @@ namespace JuliaFoodDeliveryMarket.Models
     {
         public int Id { get; set; }
 
+        [Required(ErrorMessage = "Campo obrigatório")]
         [Display(Name = "Nome")]
         public string Name { get; set; }
 
