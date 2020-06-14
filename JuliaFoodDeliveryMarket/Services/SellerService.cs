@@ -45,7 +45,7 @@ namespace JuliaFoodDeliveryMarket.Services
             }
             catch (DbUpdateException e)
             {
-                throw new IntegrityException(e.Message)
+                throw new IntegrityException(e.Message);
 
             }
         }
